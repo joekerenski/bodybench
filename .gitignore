@@ -1,0 +1,8 @@
+# macos bullshit
+.DS_Store/
+
+# build artifacts
+*.txt
+libraylib.a
+raylib.h
+body
